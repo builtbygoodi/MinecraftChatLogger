@@ -1,0 +1,8 @@
+name: DiscordLogger
+version: '1.0-SNAPSHOT'
+main: me.goodi.discordLogger.DiscordLogger
+api-version: '1.21'
+commands:
+  reloadconfig:
+    description: "reloads config"
+    permission: "DiscordLogger.reloadconfig"
