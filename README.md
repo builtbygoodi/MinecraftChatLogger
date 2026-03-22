@@ -27,5 +27,3 @@ discord-channel-id: "123456789012345678"
 Only in-game chat is forwarded to Discord (no Discord → Minecraft)
 
 Uses the JDA (Java Discord API) library
-
-For best performance, keep your Discord bot running 24/7
